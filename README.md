@@ -1,2 +1,2 @@
 # dio-curso-java
-Desenvolvimento básico em Java
+Curso Desenvolvimento básico em Java - Atividades
